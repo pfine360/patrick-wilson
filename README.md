@@ -1,17 +1,15 @@
-# 👋 Hi, I’m Patrick Wilson Githinji
+# Pfine 360 Web Tools
 
-I am a fine artist, blogger, and online entrepreneur.  
-I build digital platforms to empower creators and businesses.
+A collection of practical web-development utilities and experiments.
 
----
+## About
 
-## 🚀 Patrick Wilson CMS
-I am the creator of **Patrick Wilson CMS**, a proprietary, multilingual content management system powering my official site.  
+This project contains useful PHP, HTML, CSS and JavaScript resources developed for practical web projects.
 
-👉 [Visit Patrick Wilson Official®](https://www.patrick-wilson-official.com)
+## Documentation and resources
 
----
+Additional documentation, tutorials and related web-development resources are available at [Pfine 360](https://www.pfine360.com/).
 
-## 🔒 Licensing
-Patrick Wilson CMS is **proprietary software**.  
-© 2025 Patrick Wilson Githinji – All rights reserved.
+## Author
+
+Developed and maintained by Pfine 360.
